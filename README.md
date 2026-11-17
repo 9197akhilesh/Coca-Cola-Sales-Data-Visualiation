@@ -1,4 +1,3 @@
-# Coca-Cola-Sales-Data-Visualiation
 
 # Coca-Cola Sales Data Visualization
 
